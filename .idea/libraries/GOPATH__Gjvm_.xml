@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Gjvm&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../codis" />
+      <root url="file://$PROJECT_DIR$/../cockroach" />
+      <root url="file://$PROJECT_DIR$/../glow" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../owl" />
+      <root url="file://$PROJECT_DIR$/../nomad" />
+      <root url="file://$PROJECT_DIR$/../disruptor" />
+      <root url="file://$PROJECT_DIR$/../go" />
+      <root url="file://$PROJECT_DIR$/../freecache" />
+      <root url="file://$PROJECT_DIR$/../tidb" />
+      <root url="file://$PROJECT_DIR$/../ledisdb" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../codis" />
+      <root url="file://$PROJECT_DIR$/../cockroach" />
+      <root url="file://$PROJECT_DIR$/../glow" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../owl" />
+      <root url="file://$PROJECT_DIR$/../nomad" />
+      <root url="file://$PROJECT_DIR$/../disruptor" />
+      <root url="file://$PROJECT_DIR$/../go" />
+      <root url="file://$PROJECT_DIR$/../freecache" />
+      <root url="file://$PROJECT_DIR$/../tidb" />
+      <root url="file://$PROJECT_DIR$/../ledisdb" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
